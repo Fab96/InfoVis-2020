@@ -1,0 +1,20 @@
+Crea un file json con dei dati multivariati: ci sono 10 data-point e
+ogni data-point ha cinque variabili quantitative i cui valori sono tutti
+positivi. In base a questi dati disegna 10 triangoli isosceli nell'area
+di disegno (ogni triangolo corrisponde ad un data-point). La prima
+variabile determina la posizione orizzontale del triangolo, la seconda
+variabile la posizione verticale, la terza variabile la base, la quarta
+variabile l'altezza, la quinta variabile la tonalità del riempimento.
+Facendo click con il pulsante sinistro su un triangolo questo diventa
+trasparente. Facendo click su un secondo triangolo questo scambia i
+valori delle variabili (con l'eccezione della x e della y e del colore)
+con quelle del triangolo trasparente (che ritorna del colore originale).
+Fai in modo che i cambi di dimensioni dei triangoli avvengano con
+un'animazione fluida.
+=======================================================
+
+  Il progetto dovrà essere svolto individualmente utilizzando JavaScript
+e D3.js entro il 6 giugno 2020. Per la consegna è sufficiente che tu
+risponda a questa mail fornendo un link al progetto messo a disposizione
+su github. La valutazione di questo mini-progetto individuale peserà tre
+punti sul voto finale.

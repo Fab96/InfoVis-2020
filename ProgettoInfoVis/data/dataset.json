@@ -1,0 +1,82 @@
+[
+	{
+		"px": 5,
+		"py": 4,
+		"base": 20,
+		"altezza": 10,
+		"tonalita": "#181FA1"
+	},
+	{
+		"px": 50,
+		"py": 540,
+		"base": 100,
+		"altezza": 80,
+		"tonalita": "#4CC417"
+	},
+	{
+		"px": 450,
+		"py": 170,
+		"base": 200,
+		"altezza": 50,
+		"tonalita": "#8E35EF"
+	},
+	{
+		"px": 30,
+		"py": 80,
+		"base": 30,
+		"altezza": 30,
+		"tonalita": "#F6358A"
+	},
+	{
+		"px": 600,
+		"py": 500,
+		"base": 45,
+		"altezza": 55,
+		"tonalita": "#8A4117"
+	},
+	{
+		"px": 900,
+		"py": 350,
+		"base": 200,
+		"altezza": 305,
+		"tonalita": "#348781"
+	},
+	{
+		"px": 1200,
+		"py": 250,
+		"base": 120,
+		"altezza": 101,
+
+		"tonalita": "#C11B17"
+	},
+	{
+		"px": 1500,
+		"py": 80,
+		"base": 101,
+		"altezza": 400,
+		"tonalita": "#FBB117"
+	},
+	{
+		"px": 180,
+		"py": 340,
+		"base": 100,
+		"altezza": 170,
+		"tonalita": "#ADDFFF"
+	},
+	{
+		"px": 1100,
+		"py": 90,
+		"base": 40,
+		"altezza": 90,
+		"tonalita": "#FAAFBE"
+	}
+	
+
+
+
+
+
+
+
+	
+]
